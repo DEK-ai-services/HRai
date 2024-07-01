@@ -1,0 +1,20 @@
+{
+  "name": "hrai-2-0",
+  "version": "0.0.0",
+  "description": "HRAI-2-0",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "natural": "^7.0.6",
+    "node-cache": "^5.1.2",
+    "openai": "^4.52.1"
+  }
+}

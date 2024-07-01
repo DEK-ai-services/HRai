@@ -1,0 +1,3 @@
+C:\Users\vesec\source\repos\HRAI-2-0\HRAI-2-0\obj\Debug\HRAI-2-0.njsproj.AssemblyReference.cache
+C:\Users\vesec\source\repos\HRAI-2-0\HRAI-2-0\obj\Debug\HRAI-2-0.njsproj.CoreCompileInputs.cache
+C:\Users\vesec\source\repos\HRAI-2-0\HRAI-2-0\bin\Microsoft.NodejsTools.WebRole.dll
